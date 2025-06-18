@@ -99,7 +99,7 @@ Replace the placeholder images with your own:
 
 ## 📊 Professional Highlights
 
-Based on William's CV, the website showcases:
+ the website showcases:
 
 - **3+ years** of professional experience
 - **Full-stack development** expertise
