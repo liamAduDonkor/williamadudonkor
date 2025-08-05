@@ -1,0 +1,102 @@
+
+1
+WILLIAM AKWASI ADU-DONKOR
+Address: GD-224 5559, Fofo Ablorh Street, Ashaley Botwe, Accra-Ghana
+e-mail: williamadudonkor@gmail.com; tel: 0559505044;
+LinkedIn: https://www.linkedin.com/in/william-adu-donkor?
+utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+Github: https://github.com/liamAduDonkor
+Education and Qualifications
+2025 -2028 ISC2 Certified in CyberSecurity
+2024-Date Self-Paced
+Courses kali Linux, Katoolin, Evilginx, Golang
+2022-2023 Code Train Ghana Full Stack Development
+Courses: Html; CSS; Javascript; React; Redux
+SQL; MongoDB
+2016-2020 Kwame Nkrumah University of Science BSc. Computer Science
+and Technology (Second Class Honors)
+Courses: Data Structures and Algorithms.
+Computer Networking ;
+Software Engineering; Graph Theory.
+Mobile App Development; Computer Security
+Information Systems; Principles of Management
+2012 - 2016 Mfantsipim Senior High School Technical Science
+Work Experience
+April 2022 – Feb 2025 VDC Cloud Management Services A c c r a ,
+Ghana
+Date
+Cloud Technical Support
+⁃ Serve as technical support, bridging DevOps and Sys-Ops teams.
+⁃ Lead project testing and evaluation for development team.
+⁃ Administer Duo authentication services and manage accounts.
+⁃ Attain Megaport Sales Accreditation.
+⁃ Configure and manage multi-cloud environments with Megaport.
+⁃ Automate development progress emails using Python and SendGrid.
+⁃ Develop cloud-based projects with on-demand servers.
+⁃ Monitor, edit, and regulate backup jobs using Nakivo Backup and
+Replication..
+⁃ Optimize system performance through proactive maintenance.
+⁃ Ensure compliance with security standards.
+⁃ Provide technical mentorship and training.
+⁃ Optimise application performance with memory management
+techniques.
+Oct. 2020– FullStack Development Accra, Ghana
+Date Freelance
+⁃ Undertake basic HMTL; CSS and JavaScript projects; Blackjack
+projects.
+⁃ Build projects with secure authentication using Laravel and its
+available libraries.
+⁃ Develop websites with React and NeXTs.
+⁃ Made edits on a hosted Laravel project.
+⁃ Optimised website and included SEO optimisation.
+⁃ Optimised website and included SEO optimisation.
+⁃ Introduced google analytics to website for growth and reach
+monitoring.
+- Completed a certified in cyber security course issued by ISC2
+⁃ Designed and built multiple websites with firebase studio
+Oct – 2020 – Ghana Oil Company Limited Accra, Ghana
+Sept. - 2021 (leading national oil entity in Ghana)
+National Service Personnel
+• Supervised assigned stations and recorded fuel sales.
+• Discharged fuel at assigned fuel dispensary.
+• Ensured safety routines were observed at various assigned oil stations.
+• Undertook additional tasks assigned by supervisors.
+June 2018– Naachia Mining Services Accra, Ghana
+Intern
+July 2018
+• Worked with the Administration team to circulate information in the
+accounting department.
+• Prepared memoranda and documents for circulation to various departments,
+including Logistics and Administration.
+• Served as a Personal Assistant to the Head of the Accounting Department.
+• Undertook additional responsibilities as assigned by the Head of the
+Administration and Accounting Departments
+June. 2017– Vivideye Concepts
+Aug. 2017 Intern Accra, Ghana
+• Produced and edited media content for the Company.
+• Assisted in equipment handling and usage.
+• Led the Social Media team and managed the Company's
+social media content.
+Additional Information
+Skills:
+• Computer literacy; Microsoft suite.
+• Microsoft Enterprise Defender Admin.
+• Programming languages: JavaScript, Python, Laravel, React, Next.js,
+• Web design and development.
+• Mobile application development
+• Debian terminal navigation and files manipulations
+Achievements:
+• Fiber optic splicing certificate from an extensive hands-on training conducted
+by JOHVIC FIBERTECH SOLUTIONS (USA);
+• GitHub profile: liamAduDonkor (github.com)
+Hobbies:
+• Minor engineering repairs.
+• Gaming
+• Programming games and work tools
+Languages:
+• Fluent in English
+References
+• Rambert Adjei Shaw
+CEO, Vivideye Studios
+e-mail: vestudios7@gmail.com
+Mobile phone: +233558318013
